@@ -1,0 +1,4 @@
+repository "FA21-BCS-050-014-Final-Project@burntbri0che@cloud"
+  path "/"
+    br "/main"
+    co "/main"
